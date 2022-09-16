@@ -1,0 +1,2 @@
+- name: MySQL to SQLite3 Converter
+  uses: benrowe/mysql-to-sqlite3@v1.0.0
